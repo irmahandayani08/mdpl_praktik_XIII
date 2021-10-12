@@ -1,4 +1,9 @@
 Pengertian:
 - Sebuah website yang bisa kita kunjungi, registrasi, membuat akun, upload file dan bisa dikelola menggunakan VCS yang dimiliki github tanpa install GIT.
 - Layanan cloud untuk menyiman dan mengelola project atau repo git.
+Istilah dalam GIT
+- Repo: folder project
+- Commit: rekaman/ snapshot dari repo
+- Hash
+- Checkout
 
