@@ -1,9 +1,10 @@
 Pengertian:
 - Sebuah website yang bisa kita kunjungi, registrasi, membuat akun, upload file dan bisa dikelola menggunakan VCS yang dimiliki github tanpa install GIT.
-
-Repo: folder project
-Commit: rekaman/ snapshot dari repo
-Hash: penanda unik pada sebuah commit
-Checkout: berpindah ke sebuah commit
+- Layanan cloud untuk menyiman dan mengelola project atau repo git.
+Istilah GIT:
+- Repo: folder project
+- Commit: rekaman/ snapshot dari repo
+- Hash: penanda unik pada sebuah commit
+- Checkout: berpindah ke sebuah commit
 
 
